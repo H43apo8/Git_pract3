@@ -3,4 +3,4 @@
 
 Добавил текст локально
 
-Добавил текст через GitHub
+Добавил текст через GitHub. ADD enflish text in github
