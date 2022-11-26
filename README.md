@@ -6,6 +6,6 @@
 Добавил текст через GitHub. ADD enflish text in github
 
 ## Картинка
-это яблоко
+это яблоко. This is apple
 
 ![Это яблоко](Apple.jpg)
