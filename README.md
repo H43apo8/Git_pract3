@@ -4,3 +4,8 @@
 Добавил текст локально. ADD english text local
 
 Добавил текст через GitHub. ADD enflish text in github
+
+## Картинка
+это яблоко
+
+![Это яблоко](Apple.jpg)
